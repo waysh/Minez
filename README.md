@@ -2,7 +2,7 @@
 #### Description:
 
 ##### General Overview:
-Unoriginal clone of good old minesweeper. But dark mode. Uncover all the squares that arent mines and you win :D. Uncover a mine and you lose :(.
+Minesweeper but worse. + dark mode. Uncover all the squares that arent mines and you win :D. Uncover a mine and you lose :(.
 Written in python with the pygame library.
 
 ##### Menu:
