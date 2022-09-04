@@ -12,7 +12,7 @@ When app.py is run the menu is initiated. The menu allows you to choose the dime
 
 ##### Main:
 
-You can tell I made this because of how badly its written. I didnt even use rectangles becuase i only found out that they existed after i was basically done.
+You can tell I made this because of how badly its written. I didnt even use rectangles becuase i only found out that they existed after i was done.
 
 ##### Reducing guesses
 
