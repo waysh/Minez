@@ -12,6 +12,8 @@ When app.py is run the menu is initiated. The menu allows you to choose the dime
 
 ##### Main:
 
+You can tell I made this because of how badly its written. I didnt even use rectangles becuase i only found out that they existed after i was basically done.
+
 ##### Reducing guesses
 
 The position of the mines is randomly generated. The entire point of the game is to deduce the position of each mine using L O G I C skills! WOW! But wait. What about the very first square you uncover? How could you know if it's a mine or not? GREAT QUESTION! You can't. So I added a feature that marks one square that isn't a mine for you to uncover. 
